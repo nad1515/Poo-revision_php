@@ -23,6 +23,9 @@
  $account3 = new SavingAccount(name: "thierry", balance:5000, interestRate:7);
  echo $account3;
 
+ $account4 = new SavingAccount(name: "Nadia", balance:3000, interestRate:9);
+ echo $account4;
+
  ?>
 <!-- on va coder en php ici -->
 
